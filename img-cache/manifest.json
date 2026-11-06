@@ -1,0 +1,622 @@
+{
+ "hero-koldum": {
+  "widths": "640,1000,1600,2200",
+  "variants": [
+   {
+    "w": 640,
+    "h": 346,
+    "url": "/img/hero-koldum-640.webp"
+   },
+   {
+    "w": 1000,
+    "h": 540,
+    "url": "/img/hero-koldum-1000.webp"
+   },
+   {
+    "w": 1600,
+    "h": 864,
+    "url": "/img/hero-koldum-1600.webp"
+   },
+   {
+    "w": 2000,
+    "h": 1080,
+    "url": "/img/hero-koldum-2000.webp"
+   }
+  ]
+ },
+ "kruml-portret": {
+  "widths": "400,640,896",
+  "variants": [
+   {
+    "w": 400,
+    "h": 536,
+    "url": "/img/kruml-portret-400.webp"
+   },
+   {
+    "w": 640,
+    "h": 857,
+    "url": "/img/kruml-portret-640.webp"
+   },
+   {
+    "w": 896,
+    "h": 1200,
+    "url": "/img/kruml-portret-896.webp"
+   }
+  ]
+ },
+ "kruml-avatar": {
+  "widths": "160",
+  "variants": [
+   {
+    "w": 160,
+    "h": 160,
+    "url": "/img/kruml-avatar-160.webp"
+   }
+  ]
+ },
+ "vzor-zprava-titul": {
+  "widths": "320,560",
+  "variants": [
+   {
+    "w": 320,
+    "h": 453,
+    "url": "/img/vzor-zprava-titul-320.webp"
+   },
+   {
+    "w": 560,
+    "h": 792,
+    "url": "/img/vzor-zprava-titul-560.webp"
+   }
+  ]
+ },
+ "rozhodnuti-mpo-titul": {
+  "widths": "320,560",
+  "variants": [
+   {
+    "w": 320,
+    "h": 452,
+    "url": "/img/rozhodnuti-mpo-titul-320.webp"
+   },
+   {
+    "w": 560,
+    "h": 791,
+    "url": "/img/rozhodnuti-mpo-titul-560.webp"
+   }
+  ]
+ },
+ "mereni-kourovodu": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 638,
+    "url": "/img/mereni-kourovodu-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1063,
+    "url": "/img/mereni-kourovodu-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1594,
+    "url": "/img/mereni-kourovodu-1200.webp"
+   }
+  ]
+ },
+ "testo-mereni-kotel": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 638,
+    "url": "/img/testo-mereni-kotel-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1063,
+    "url": "/img/testo-mereni-kotel-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1594,
+    "url": "/img/testo-mereni-kotel-1200.webp"
+   }
+  ]
+ },
+ "kotelna-kaskada": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 638,
+    "url": "/img/kotelna-kaskada-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1063,
+    "url": "/img/kotelna-kaskada-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1594,
+    "url": "/img/kotelna-kaskada-1200.webp"
+   }
+  ]
+ },
+ "praha-rozdelovac": {
+  "widths": "480,800,1200,1600",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/praha-rozdelovac-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "url": "/img/praha-rozdelovac-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "url": "/img/praha-rozdelovac-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 1200,
+    "url": "/img/praha-rozdelovac-1600.webp"
+   }
+  ]
+ },
+ "praha-fasada": {
+  "widths": "480,800,1200,1600",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/praha-fasada-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "url": "/img/praha-fasada-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "url": "/img/praha-fasada-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 1200,
+    "url": "/img/praha-fasada-1600.webp"
+   }
+  ]
+ },
+ "praha-cerpadlo": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 640,
+    "url": "/img/praha-cerpadlo-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1067,
+    "url": "/img/praha-cerpadlo-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1600,
+    "url": "/img/praha-cerpadlo-1200.webp"
+   }
+  ]
+ },
+ "brno-chodba": {
+  "widths": "480,800,1200,1600",
+  "variants": [
+   {
+    "w": 480,
+    "h": 640,
+    "url": "/img/brno-chodba-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1067,
+    "url": "/img/brno-chodba-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1600,
+    "url": "/img/brno-chodba-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 2133,
+    "url": "/img/brno-chodba-1600.webp"
+   }
+  ]
+ },
+ "brno-stanice-celek": {
+  "widths": "480,800,1200,1600",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/brno-stanice-celek-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "url": "/img/brno-stanice-celek-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "url": "/img/brno-stanice-celek-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 1200,
+    "url": "/img/brno-stanice-celek-1600.webp"
+   }
+  ]
+ },
+ "mk-dilny": {
+  "widths": "480,800,1200,1600",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/mk-dilny-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "url": "/img/mk-dilny-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "url": "/img/mk-dilny-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 1200,
+    "url": "/img/mk-dilny-1600.webp"
+   }
+  ]
+ },
+ "mk-rozvody": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 640,
+    "url": "/img/mk-rozvody-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1067,
+    "url": "/img/mk-rozvody-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1600,
+    "url": "/img/mk-rozvody-1200.webp"
+   }
+  ]
+ },
+ "jihlava-radiator": {
+  "widths": "480,800,1200,1600",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/jihlava-radiator-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "url": "/img/jihlava-radiator-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "url": "/img/jihlava-radiator-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 1200,
+    "url": "/img/jihlava-radiator-1600.webp"
+   }
+  ]
+ },
+ "vysoke-rozdelovac": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/vysoke-rozdelovac-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "url": "/img/vysoke-rozdelovac-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "url": "/img/vysoke-rozdelovac-1200.webp"
+   }
+  ]
+ },
+ "tabor-stanice": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/tabor-stanice-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 601,
+    "url": "/img/tabor-stanice-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 901,
+    "url": "/img/tabor-stanice-1200.webp"
+   }
+  ]
+ },
+ "pisek-budova": {
+  "widths": "480,800,1200,1600",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/pisek-budova-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 601,
+    "url": "/img/pisek-budova-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 901,
+    "url": "/img/pisek-budova-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 1202,
+    "url": "/img/pisek-budova-1600.webp"
+   }
+  ]
+ },
+ "ref-skola-kladruby": {
+  "widths": "400,800,1100",
+  "variants": [
+   {
+    "w": 400,
+    "h": 296,
+    "url": "/img/ref-skola-kladruby-400.webp"
+   },
+   {
+    "w": 800,
+    "h": 591,
+    "url": "/img/ref-skola-kladruby-800.webp"
+   },
+   {
+    "w": 1100,
+    "h": 813,
+    "url": "/img/ref-skola-kladruby-1100.webp"
+   }
+  ]
+ },
+ "ref-mg-real-jihlava": {
+  "widths": "400,800,1100",
+  "variants": [
+   {
+    "w": 400,
+    "h": 296,
+    "url": "/img/ref-mg-real-jihlava-400.webp"
+   },
+   {
+    "w": 800,
+    "h": 591,
+    "url": "/img/ref-mg-real-jihlava-800.webp"
+   },
+   {
+    "w": 1100,
+    "h": 813,
+    "url": "/img/ref-mg-real-jihlava-1100.webp"
+   }
+  ]
+ },
+ "brno-stanice": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/brno-stanice-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "url": "/img/brno-stanice-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "url": "/img/brno-stanice-1200.webp"
+   }
+  ]
+ },
+ "mk-skola": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/mk-skola-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "url": "/img/mk-skola-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "url": "/img/mk-skola-1200.webp"
+   }
+  ]
+ },
+ "hus-dispecink": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/hus-dispecink-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "url": "/img/hus-dispecink-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "url": "/img/hus-dispecink-1200.webp"
+   }
+  ]
+ },
+ "vysoke-skola": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 640,
+    "url": "/img/vysoke-skola-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1067,
+    "url": "/img/vysoke-skola-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1600,
+    "url": "/img/vysoke-skola-1200.webp"
+   }
+  ]
+ },
+ "tabor-skola": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 640,
+    "url": "/img/tabor-skola-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1067,
+    "url": "/img/tabor-skola-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1600,
+    "url": "/img/tabor-skola-1200.webp"
+   }
+  ]
+ },
+ "litvinov-koldum": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 259,
+    "url": "/img/litvinov-koldum-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 432,
+    "url": "/img/litvinov-koldum-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 648,
+    "url": "/img/litvinov-koldum-1200.webp"
+   }
+  ]
+ },
+ "wotan-kotel": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 640,
+    "url": "/img/wotan-kotel-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1067,
+    "url": "/img/wotan-kotel-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1600,
+    "url": "/img/wotan-kotel-1200.webp"
+   }
+  ]
+ },
+ "transakta-labut": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 640,
+    "url": "/img/transakta-labut-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1067,
+    "url": "/img/transakta-labut-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1600,
+    "url": "/img/transakta-labut-1200.webp"
+   }
+  ]
+ },
+ "lib-skola": {
+  "widths": "480,800,1200",
+  "variants": [
+   {
+    "w": 480,
+    "h": 360,
+    "url": "/img/lib-skola-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "url": "/img/lib-skola-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "url": "/img/lib-skola-1200.webp"
+   }
+  ]
+ }
+}
