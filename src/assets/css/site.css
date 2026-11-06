@@ -637,3 +637,27 @@ textarea { resize: vertical; min-height: 110px; }
 .report-rows li span { min-width: 0; }
 @media (max-width: 480px) { .report-paper { padding: 26px 18px 22px; } .report-stamp { right: 12px; bottom: 48px; font-size: .7rem; } }
 .section { overflow-x: clip; }
+/* ---------- V2 svetlejsi a barevnejsi (6. 11. 2026): tmave plochy hluboka modra, akcent zelenomodry, barevne fotky v hero ---------- */
+:root {
+  --ink: #12304d; --ink-2: #173a5c; --ink-3: #1f476e; --ink-4: #2a5683;
+  --paper: #f8fafb; --paper-2: #eef3f6; --paper-3: #e2eaef; --line: #dde5ea; --line-2: #c4d0d8;
+  --text: #10202e; --muted: #5a6875; --muted-2: #7f8c97;
+  --on-dark: #f5f9fc; --on-dark-2: rgba(245, 249, 252, .74); --on-dark-3: rgba(245, 249, 252, .18);
+  --accent: #2bb3a0; --accent-2: #e8f6f3;
+}
+html { background: var(--ink); }
+.hero-bg img, .page-hero-bg img { filter: saturate(.9) contrast(1.02) brightness(.86); }
+.hero-bg::after { background: linear-gradient(180deg, rgba(18, 48, 77, .55) 0%, rgba(18, 48, 77, .18) 38%, rgba(12, 36, 60, .82) 100%); }
+.page-hero-bg::after { background: linear-gradient(180deg, rgba(18, 48, 77, .5), rgba(12, 36, 60, .8)); }
+.section-dark { background: linear-gradient(160deg, var(--ink-2) 0%, var(--ink-3) 100%); }
+.hero h1 em, .page-hero h1 em { color: #8fe3d4; }
+h1 em, h2 em { color: var(--accent); }
+.kick { color: var(--accent); }
+.eyebrow::before { background: var(--accent); }
+.section-dark .kick, .hero .kick { color: #8fe3d4; }
+.hero-proof strong { color: #fff; }
+.hero-proof li strong::after { content: ""; display: block; width: 28px; height: 2px; margin-top: 10px; background: var(--accent); }
+a:hover { text-decoration-color: var(--accent); }
+.btn-dark { background: var(--ink); border-color: var(--ink); }
+.btn-dark:hover { background: var(--ink-3); border-color: var(--ink-3); }
+.site-footer { background: linear-gradient(180deg, var(--ink) 0%, #0e2740 100%); }
