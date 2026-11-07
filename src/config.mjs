@@ -80,7 +80,7 @@ export const person = {
 export const petr = {
   id: 'petr',
   name: 'Ing. Petr Michna',
-  jobTitle: 'Energetický konzultant',
+  jobTitle: 'Energetik',
   lead: 'Průkazy energetické náročnosti budov',
   also: ['energetické audity', 'renovační pas', 'energetické poradenství'],
   authorization: null, // TODO po složení zkoušek MPO doplnit { number, scope } – do té doby NIC
