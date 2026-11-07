@@ -45,6 +45,7 @@ const FORBIDDEN = [
   [/\b\d+\+?\s*(spokojených )?(klientů|zákazníků)\b/i, 'počty klientů (nevymýšlet)'],
   [/(hodnocení|recenz)[^.]{0,30}★/i, 'recenze/hodnocení (žádné nezveřejňujeme)'],
   [/energetick\p{L}* specialist\p{L}* s oprávněním MPO/iu, 'obecné „specialisté s oprávněním MPO“ (smí jen kontrola vytápění s čísly)'],
+  [/Michn\p{L}*[^.]{0,60}energetick\p{L}* specialist/iu, 'Ing. Petr Michna = „energetik“, ne „energetický specialista“ (oprávnění zatím nemá)'],
   [/Michn\p{L}*[^.]{0,120}oprávněn|oprávněn\p{L}*[^.]{0,80}Michn/iu, 'oprávnění ve spojení s Ing. Petrem Michnou (oprávnění zatím nemá)'],
   [/ve zkratce: zdarma|zdarma/i, 'slovo „zdarma“'],
 ];
